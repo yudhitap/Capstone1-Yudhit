@@ -4,7 +4,7 @@ This project develops a CRUD (Create, Read, Update, Delete) program as part of M
 ## Features
 This program contains 5 main menus
 * Menu 1: Display existing employee data (Read)
-* Menu 2: Add new employee data (Creat)
+* Menu 2: Add new employee data (Create)
 * Menu 3: Modify employee data (Update
 * Menu 4: Delete employee data (Delete)
 * Menu 5: Exit Program
