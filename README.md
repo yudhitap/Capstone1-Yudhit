@@ -1,4 +1,4 @@
-# Capstone Project Module 1 - Yudhitya Agung Prasetyo
+# Employee Data Management
 ## Overview
 This project develops a CRUD (Create, Read, Update, Delete) program as part of Module 1's Capstone project in Purwadhika Bootcamp. The application aims to manage employee data efficiently.
 ## Features
